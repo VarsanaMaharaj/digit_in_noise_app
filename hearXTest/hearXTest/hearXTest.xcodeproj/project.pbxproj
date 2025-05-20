@@ -1,0 +1,642 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		425275D42DDB829F00465899 /* noise_3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CB2DDB829F00465899 /* noise_3.m4a */; };
+		425275D52DDB829F00465899 /* noise_5.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CD2DDB829F00465899 /* noise_5.m4a */; };
+		425275D62DDB829F00465899 /* noise_9.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275D12DDB829F00465899 /* noise_9.m4a */; };
+		425275D72DDB829F00465899 /* 2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C12DDB829F00465899 /* 2.m4a */; };
+		425275D82DDB829F00465899 /* noise_2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CA2DDB829F00465899 /* noise_2.m4a */; };
+		425275D92DDB829F00465899 /* 7.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C62DDB829F00465899 /* 7.m4a */; };
+		425275DA2DDB829F00465899 /* 1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C02DDB829F00465899 /* 1.m4a */; };
+		425275DB2DDB829F00465899 /* 4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C32DDB829F00465899 /* 4.m4a */; };
+		425275DC2DDB829F00465899 /* 9.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C82DDB829F00465899 /* 9.m4a */; };
+		425275DD2DDB829F00465899 /* 5.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C42DDB829F00465899 /* 5.m4a */; };
+		425275DE2DDB829F00465899 /* noise_7.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CF2DDB829F00465899 /* noise_7.m4a */; };
+		425275DF2DDB829F00465899 /* noise_1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C92DDB829F00465899 /* noise_1.m4a */; };
+		425275E02DDB829F00465899 /* 3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C22DDB829F00465899 /* 3.m4a */; };
+		425275E12DDB829F00465899 /* noise_6.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CE2DDB829F00465899 /* noise_6.m4a */; };
+		425275E22DDB829F00465899 /* 8.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C72DDB829F00465899 /* 8.m4a */; };
+		425275E32DDB829F00465899 /* noise_10.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275D22DDB829F00465899 /* noise_10.m4a */; };
+		425275E42DDB829F00465899 /* noise_8.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275D02DDB829F00465899 /* noise_8.m4a */; };
+		425275E52DDB829F00465899 /* noise_4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275CC2DDB829F00465899 /* noise_4.m4a */; };
+		425275E62DDB829F00465899 /* 6.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 425275C52DDB829F00465899 /* 6.m4a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4252758E2DDB584600465899 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 425275732DDB584400465899 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4252757A2DDB584400465899;
+			remoteInfo = hearXTest;
+		};
+		425275982DDB584600465899 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 425275732DDB584400465899 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4252757A2DDB584400465899;
+			remoteInfo = hearXTest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4252757B2DDB584400465899 /* hearXTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hearXTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4252758D2DDB584600465899 /* hearXTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hearXTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		425275972DDB584600465899 /* hearXTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hearXTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		425275C02DDB829F00465899 /* 1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.m4a; sourceTree = "<group>"; };
+		425275C12DDB829F00465899 /* 2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.m4a; sourceTree = "<group>"; };
+		425275C22DDB829F00465899 /* 3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 3.m4a; sourceTree = "<group>"; };
+		425275C32DDB829F00465899 /* 4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 4.m4a; sourceTree = "<group>"; };
+		425275C42DDB829F00465899 /* 5.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 5.m4a; sourceTree = "<group>"; };
+		425275C52DDB829F00465899 /* 6.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 6.m4a; sourceTree = "<group>"; };
+		425275C62DDB829F00465899 /* 7.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 7.m4a; sourceTree = "<group>"; };
+		425275C72DDB829F00465899 /* 8.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 8.m4a; sourceTree = "<group>"; };
+		425275C82DDB829F00465899 /* 9.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = 9.m4a; sourceTree = "<group>"; };
+		425275C92DDB829F00465899 /* noise_1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_1.m4a; sourceTree = "<group>"; };
+		425275CA2DDB829F00465899 /* noise_2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_2.m4a; sourceTree = "<group>"; };
+		425275CB2DDB829F00465899 /* noise_3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_3.m4a; sourceTree = "<group>"; };
+		425275CC2DDB829F00465899 /* noise_4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_4.m4a; sourceTree = "<group>"; };
+		425275CD2DDB829F00465899 /* noise_5.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_5.m4a; sourceTree = "<group>"; };
+		425275CE2DDB829F00465899 /* noise_6.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_6.m4a; sourceTree = "<group>"; };
+		425275CF2DDB829F00465899 /* noise_7.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_7.m4a; sourceTree = "<group>"; };
+		425275D02DDB829F00465899 /* noise_8.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_8.m4a; sourceTree = "<group>"; };
+		425275D12DDB829F00465899 /* noise_9.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_9.m4a; sourceTree = "<group>"; };
+		425275D22DDB829F00465899 /* noise_10.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = noise_10.m4a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4252757D2DDB584400465899 /* hearXTest */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hearXTest;
+			sourceTree = "<group>";
+		};
+		425275902DDB584600465899 /* hearXTestTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hearXTestTests;
+			sourceTree = "<group>";
+		};
+		4252759A2DDB584600465899 /* hearXTestUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hearXTestUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		425275782DDB584400465899 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4252758A2DDB584600465899 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		425275942DDB584600465899 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		425275722DDB584400465899 = {
+			isa = PBXGroup;
+			children = (
+				4252757D2DDB584400465899 /* hearXTest */,
+				425275902DDB584600465899 /* hearXTestTests */,
+				4252759A2DDB584600465899 /* hearXTestUITests */,
+				4252757C2DDB584400465899 /* Products */,
+				425275D32DDB829F00465899 /* audio_files */,
+			);
+			sourceTree = "<group>";
+		};
+		4252757C2DDB584400465899 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4252757B2DDB584400465899 /* hearXTest.app */,
+				4252758D2DDB584600465899 /* hearXTestTests.xctest */,
+				425275972DDB584600465899 /* hearXTestUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		425275D32DDB829F00465899 /* audio_files */ = {
+			isa = PBXGroup;
+			children = (
+				425275C02DDB829F00465899 /* 1.m4a */,
+				425275C12DDB829F00465899 /* 2.m4a */,
+				425275C22DDB829F00465899 /* 3.m4a */,
+				425275C32DDB829F00465899 /* 4.m4a */,
+				425275C42DDB829F00465899 /* 5.m4a */,
+				425275C52DDB829F00465899 /* 6.m4a */,
+				425275C62DDB829F00465899 /* 7.m4a */,
+				425275C72DDB829F00465899 /* 8.m4a */,
+				425275C82DDB829F00465899 /* 9.m4a */,
+				425275C92DDB829F00465899 /* noise_1.m4a */,
+				425275CA2DDB829F00465899 /* noise_2.m4a */,
+				425275CB2DDB829F00465899 /* noise_3.m4a */,
+				425275CC2DDB829F00465899 /* noise_4.m4a */,
+				425275CD2DDB829F00465899 /* noise_5.m4a */,
+				425275CE2DDB829F00465899 /* noise_6.m4a */,
+				425275CF2DDB829F00465899 /* noise_7.m4a */,
+				425275D02DDB829F00465899 /* noise_8.m4a */,
+				425275D12DDB829F00465899 /* noise_9.m4a */,
+				425275D22DDB829F00465899 /* noise_10.m4a */,
+			);
+			path = audio_files;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4252757A2DDB584400465899 /* hearXTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 425275A12DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTest" */;
+			buildPhases = (
+				425275772DDB584400465899 /* Sources */,
+				425275782DDB584400465899 /* Frameworks */,
+				425275792DDB584400465899 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4252757D2DDB584400465899 /* hearXTest */,
+			);
+			name = hearXTest;
+			packageProductDependencies = (
+			);
+			productName = hearXTest;
+			productReference = 4252757B2DDB584400465899 /* hearXTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4252758C2DDB584600465899 /* hearXTestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 425275A42DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTestTests" */;
+			buildPhases = (
+				425275892DDB584600465899 /* Sources */,
+				4252758A2DDB584600465899 /* Frameworks */,
+				4252758B2DDB584600465899 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4252758F2DDB584600465899 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				425275902DDB584600465899 /* hearXTestTests */,
+			);
+			name = hearXTestTests;
+			packageProductDependencies = (
+			);
+			productName = hearXTestTests;
+			productReference = 4252758D2DDB584600465899 /* hearXTestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		425275962DDB584600465899 /* hearXTestUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 425275A72DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTestUITests" */;
+			buildPhases = (
+				425275932DDB584600465899 /* Sources */,
+				425275942DDB584600465899 /* Frameworks */,
+				425275952DDB584600465899 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				425275992DDB584600465899 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4252759A2DDB584600465899 /* hearXTestUITests */,
+			);
+			name = hearXTestUITests;
+			packageProductDependencies = (
+			);
+			productName = hearXTestUITests;
+			productReference = 425275972DDB584600465899 /* hearXTestUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		425275732DDB584400465899 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					4252757A2DDB584400465899 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					4252758C2DDB584600465899 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 4252757A2DDB584400465899;
+					};
+					425275962DDB584600465899 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 4252757A2DDB584400465899;
+					};
+				};
+			};
+			buildConfigurationList = 425275762DDB584400465899 /* Build configuration list for PBXProject "hearXTest" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 425275722DDB584400465899;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4252757C2DDB584400465899 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4252757A2DDB584400465899 /* hearXTest */,
+				4252758C2DDB584600465899 /* hearXTestTests */,
+				425275962DDB584600465899 /* hearXTestUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		425275792DDB584400465899 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				425275D42DDB829F00465899 /* noise_3.m4a in Resources */,
+				425275D52DDB829F00465899 /* noise_5.m4a in Resources */,
+				425275D62DDB829F00465899 /* noise_9.m4a in Resources */,
+				425275D72DDB829F00465899 /* 2.m4a in Resources */,
+				425275D82DDB829F00465899 /* noise_2.m4a in Resources */,
+				425275D92DDB829F00465899 /* 7.m4a in Resources */,
+				425275DA2DDB829F00465899 /* 1.m4a in Resources */,
+				425275DB2DDB829F00465899 /* 4.m4a in Resources */,
+				425275DC2DDB829F00465899 /* 9.m4a in Resources */,
+				425275DD2DDB829F00465899 /* 5.m4a in Resources */,
+				425275DE2DDB829F00465899 /* noise_7.m4a in Resources */,
+				425275DF2DDB829F00465899 /* noise_1.m4a in Resources */,
+				425275E02DDB829F00465899 /* 3.m4a in Resources */,
+				425275E12DDB829F00465899 /* noise_6.m4a in Resources */,
+				425275E22DDB829F00465899 /* 8.m4a in Resources */,
+				425275E32DDB829F00465899 /* noise_10.m4a in Resources */,
+				425275E42DDB829F00465899 /* noise_8.m4a in Resources */,
+				425275E52DDB829F00465899 /* noise_4.m4a in Resources */,
+				425275E62DDB829F00465899 /* 6.m4a in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4252758B2DDB584600465899 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		425275952DDB584600465899 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		425275772DDB584400465899 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		425275892DDB584600465899 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		425275932DDB584600465899 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4252758F2DDB584600465899 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4252757A2DDB584400465899 /* hearXTest */;
+			targetProxy = 4252758E2DDB584600465899 /* PBXContainerItemProxy */;
+		};
+		425275992DDB584600465899 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4252757A2DDB584400465899 /* hearXTest */;
+			targetProxy = 425275982DDB584600465899 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4252759F2DDB584600465899 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		425275A02DDB584600465899 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		425275A22DDB584600465899 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		425275A32DDB584600465899 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		425275A52DDB584600465899 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hearXTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hearXTest";
+			};
+			name = Debug;
+		};
+		425275A62DDB584600465899 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hearXTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hearXTest";
+			};
+			name = Release;
+		};
+		425275A82DDB584600465899 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hearXTest;
+			};
+			name = Debug;
+		};
+		425275A92DDB584600465899 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = varsana.maharaj.hearXTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hearXTest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		425275762DDB584400465899 /* Build configuration list for PBXProject "hearXTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4252759F2DDB584600465899 /* Debug */,
+				425275A02DDB584600465899 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		425275A12DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				425275A22DDB584600465899 /* Debug */,
+				425275A32DDB584600465899 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		425275A42DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				425275A52DDB584600465899 /* Debug */,
+				425275A62DDB584600465899 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		425275A72DDB584600465899 /* Build configuration list for PBXNativeTarget "hearXTestUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				425275A82DDB584600465899 /* Debug */,
+				425275A92DDB584600465899 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 425275732DDB584400465899 /* Project object */;
+}
